@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher, Northumbria University.
+subtitle: Machine Learning PhD Researcher, Northumbria University.
 
 profile:
   align: right
   image:
   image_circular: false
   more_info: >
-    <p>School of Computer Science</p>
-    <p>Northumbria University</p>
-    <p>Newcastle upon Tyne, UK</p>
 
 selected_papers: true
 social: true
